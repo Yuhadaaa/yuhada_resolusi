@@ -2,3 +2,4 @@ YUHADA RESOLUSI
 - Paham PHP & Js
 - Membuat aplikasi sederhana
 - Membuat forum diskusi sendiri
+- Hidup lebih teratur
